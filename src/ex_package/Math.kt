@@ -1,4 +1,4 @@
-package `package`
+package ex_package
 
 //a와 b중 더 큰수를 반환하는 함수
 fun max(a:Int, b:Int):Int=
